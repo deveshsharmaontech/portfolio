@@ -36,7 +36,7 @@ const Contact = () => {
     // public key - jhdI1KuVD91ZXHEjK
     emailjs
       .send(
-        'service_o7bfa52',
+        'service_xywavif',
         'template_x2g8rc6',
         {
           from_name: form.name,
