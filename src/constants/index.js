@@ -147,25 +147,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Thread",
+    name: "PetSpree",
     description:
-      "A Social Media platform for users where users can like and comment on the posts of other users and follow/unfollow all the other users with dynamic suggestions.",
+      "An EKart website to buy accessories, food items selectively for your specific type of breed of dog.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "ChakraUI",
+        name: "TailwindCSS",
         color: "pink-text-gradient",
       },
     ],
     image: threads,
-    source_code_link: "https://github.com/Divyansh10Sharma/Threads_Clone.git",
+    source_code_link: "https://github.com/deveshsharmaontech/PetSpree",
   },
   {
     name: "Frencie",
